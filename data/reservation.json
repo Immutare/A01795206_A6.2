@@ -1,0 +1,338 @@
+[
+  {
+    "id": "dbd559d9-40ee-43d5-96d9-8062828e6134",
+    "customer_id": "e3c573c1-35d6-4721-93c5-b1c8d89cc022",
+    "hotel_id": "f8d7e7e5-697f-45c1-93ce-514cbf1c375a",
+    "start_date": "2025-01-12T11:01:50 +06:00",
+    "end_date": "2025-01-13T09:48:16 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "8adda383-04a4-4ef3-9643-c4e9c70a20c4",
+    "customer_id": "615cd881-65d2-4216-bc22-c9c95b21a507",
+    "hotel_id": "de81837e-8bc2-46cb-a6ea-af62b9ea7559",
+    "start_date": "2025-01-12T10:21:58 +06:00",
+    "end_date": "2025-01-18T01:26:41 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "0a0c975c-8fdc-4710-9f06-c37edab65773",
+    "customer_id": "57599fac-e3e0-4393-be0b-f88d3e051ca0",
+    "hotel_id": "beb31366-4f5a-400c-8139-3063da41e9e7",
+    "start_date": "2025-01-02T06:38:02 +06:00",
+    "end_date": "2025-01-09T11:21:05 +06:00",
+    "occupancy": 2
+  },
+  {
+    "id": "baaa27db-6dc7-40c4-a8cb-47c81021b2dc",
+    "customer_id": "9ffa0824-b0dc-4b3a-98c1-41023e9c552b",
+    "hotel_id": "72a83892-bc11-40a2-9520-ac1826857320",
+    "start_date": "2025-01-04T01:42:25 +06:00",
+    "end_date": "2025-01-12T02:20:09 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "6ea36159-e39b-4f8c-bc3d-940dd8e04ed7",
+    "customer_id": "2d334807-e5ae-411c-a7a1-4255bf6a9af9",
+    "hotel_id": "01761d49-3f94-4713-b5e1-9994c3a20a27",
+    "start_date": "2025-01-03T09:29:40 +06:00",
+    "end_date": "2025-01-05T08:14:46 +06:00",
+    "occupancy": 2
+  },
+  {
+    "id": "d8828e12-a781-40d7-a895-f8a8e0ad0522",
+    "customer_id": "f8a771f8-50e4-4c2e-b62e-36f1e4b39737",
+    "hotel_id": "31c5cb0c-a29c-4a68-a553-b768651b5c09",
+    "start_date": "2025-01-04T12:20:44 +06:00",
+    "end_date": "2025-01-06T06:12:40 +06:00",
+    "occupancy": 4
+  },
+  {
+    "id": "ef974f77-2204-4da4-8410-0794c570b802",
+    "customer_id": "7bfa3b18-d24d-4cc5-a64d-a0a6f9c99f77",
+    "hotel_id": "dafccc85-5008-46a0-92c6-3c69bbb6c045",
+    "start_date": "2025-01-13T07:52:38 +06:00",
+    "end_date": "2025-01-11T01:38:11 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "997bc4b4-a86c-4247-a808-9acc046b28c3",
+    "customer_id": "95b1c7b1-0696-4457-a85f-578da80352a5",
+    "hotel_id": "32dcae36-b403-478d-ad85-867e6c2014d6",
+    "start_date": "2025-01-05T04:20:06 +06:00",
+    "end_date": "2025-01-13T03:10:03 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "a40c3082-f54a-4106-ad17-0b1ab1ffa4ee",
+    "customer_id": "5c25d2a6-7456-4037-b9f4-3c142a48a974",
+    "hotel_id": "ea08d55a-6e93-42be-bbdd-51ef02f4bd0b",
+    "start_date": "2025-01-11T01:38:27 +06:00",
+    "end_date": "2025-01-13T06:10:06 +06:00",
+    "occupancy": 1
+  },
+  {
+    "id": "e6392c29-3ddb-4495-bf6a-92814e24b3bc",
+    "customer_id": "2d8d0004-60ec-4238-9265-ba11767d49ee",
+    "hotel_id": "96e9eb3b-a6fe-4cae-8578-be877a1b86cc",
+    "start_date": "2025-01-09T08:37:22 +06:00",
+    "end_date": "2025-01-13T11:39:53 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "c2475140-b9f4-41dd-aaa3-82e447cbaaf3",
+    "customer_id": "0cd63799-e480-4d5c-8032-0de8e873fefc",
+    "hotel_id": "e9b03d68-9db4-4ce7-991d-303c4a5c2abf",
+    "start_date": "2025-01-08T03:28:59 +06:00",
+    "end_date": "2025-01-07T05:25:52 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "fca38f55-5f81-4081-95b1-3acf39efb674",
+    "customer_id": "4a9f718e-f73a-43f4-8401-1d4ef698e930",
+    "hotel_id": "84dbef97-5eba-4604-81d0-ce84944417da",
+    "start_date": "2025-01-04T02:03:48 +06:00",
+    "end_date": "2025-01-16T05:38:31 +06:00",
+    "occupancy": 1
+  },
+  {
+    "id": "a01fca03-f008-49ca-b290-ad013eee5e63",
+    "customer_id": "5ea47a3a-db22-4abf-a8b9-5f7981de1b33",
+    "hotel_id": "a7fe3eb6-7399-4fe7-abcb-70b80aef710b",
+    "start_date": "2025-01-13T08:39:00 +06:00",
+    "end_date": "2025-01-03T07:42:03 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "9c5e5750-3ad7-44b9-bbe3-59b23e1b67a1",
+    "customer_id": "366c70d6-0100-47cf-9ad0-9cfa8abe7d26",
+    "hotel_id": "04d42386-c73f-459b-9330-85608818218e",
+    "start_date": "2025-01-07T02:46:50 +06:00",
+    "end_date": "2025-01-14T06:02:46 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "1e774a45-a789-446f-b743-53eb2a1d0170",
+    "customer_id": "68d1b3a8-5180-45c1-b7d3-c98169917fec",
+    "hotel_id": "7ea9a01a-d21f-4674-9220-0d86a19a1703",
+    "start_date": "2025-01-12T12:43:42 +06:00",
+    "end_date": "2025-01-15T07:08:43 +06:00",
+    "occupancy": 1
+  },
+  {
+    "id": "aa47ac7c-2ea2-4fa7-b321-5672e63d5c86",
+    "customer_id": "365ea50b-7d43-45cc-af2b-9c6209463e1a",
+    "hotel_id": "43bce5c2-1f5d-41df-9e8c-72fad5de0add",
+    "start_date": "2025-01-03T10:33:29 +06:00",
+    "end_date": "2025-01-18T01:50:44 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "0399dbcd-079c-457b-9e6e-aa0462410b49",
+    "customer_id": "a364494c-e2d9-4e1c-9cd9-8f610e59055f",
+    "hotel_id": "79f6d59c-150d-4086-9105-80d339c28692",
+    "start_date": "2025-01-06T07:22:45 +06:00",
+    "end_date": "2025-01-15T02:46:32 +06:00",
+    "occupancy": 2
+  },
+  {
+    "id": "47bd8ada-7c0b-4389-b781-5e88a94e350f",
+    "customer_id": "a8612a8d-75fe-4146-89f9-c12af0a28f73",
+    "hotel_id": "e9cb0042-bf18-43c8-9126-de5f79ce12ff",
+    "start_date": "2025-01-02T01:01:00 +06:00",
+    "end_date": "2025-01-10T03:09:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "9eca79a2-fe34-4dc5-af3e-ff23512fc1d2",
+    "customer_id": "e4d1bb2b-9775-4abe-8a87-a972463ac29e",
+    "hotel_id": "6ece268e-00fe-4ee1-8277-8325390283ae",
+    "start_date": "2025-01-09T09:05:56 +06:00",
+    "end_date": "2025-01-12T04:54:30 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "72b434e3-1319-486f-a19c-40280f848262",
+    "customer_id": "bf58b4a4-8836-4627-b455-240e16e7b239",
+    "hotel_id": "db4bbab0-091c-4dce-b6bd-2e22b2ed5838",
+    "start_date": "2025-01-10T12:01:37 +06:00",
+    "end_date": "2025-01-03T05:05:11 +06:00",
+    "occupancy": 4
+  },
+  {
+    "id": "de84a9f7-7504-496e-aff4-d016731e987d",
+    "customer_id": "390e1d2d-3879-4e24-979f-c95fef78f18f",
+    "hotel_id": "29bf5107-eedd-464b-a544-b42179ab578e",
+    "start_date": "2025-01-02T12:41:57 +06:00",
+    "end_date": "2025-01-04T03:44:14 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "d9975f5f-2e4b-4aa9-b900-46772871ec38",
+    "customer_id": "5f988125-ac5f-4836-b8ac-0e4f2b0f4127",
+    "hotel_id": "ec21135b-eaa0-4b76-b575-49b798cbc1c3",
+    "start_date": "2025-01-07T10:18:06 +06:00",
+    "end_date": "2025-01-06T03:49:30 +06:00",
+    "occupancy": 1
+  },
+  {
+    "id": "bc93e39b-e55e-4bfe-9da1-f63d659b5fdf",
+    "customer_id": "0a811854-f83c-466e-a772-06159ebbbcbf",
+    "hotel_id": "08e18cb1-431c-47f2-af2a-83f31d1b6ff1",
+    "start_date": "2025-01-12T09:22:58 +06:00",
+    "end_date": "2025-01-12T12:36:57 +06:00",
+    "occupancy": 2
+  },
+  {
+    "id": "521119d8-2cfa-4e3f-8fcc-bdd3f43439c1",
+    "customer_id": "ab08dcda-e8c2-4f0e-98e3-04871e85bf4a",
+    "hotel_id": "9f73718e-19c8-4470-817f-f92b2f57187e",
+    "start_date": "2025-01-04T10:16:22 +06:00",
+    "end_date": "2025-01-19T09:12:06 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "ee388a11-3fae-4d42-be95-f13f94eadce4",
+    "customer_id": "ec32be13-f4e3-4626-9113-e8b6ae421193",
+    "hotel_id": "0aa92d1a-dd1d-424a-894d-a652a35a9e06",
+    "start_date": "2025-01-11T09:44:57 +06:00",
+    "end_date": "2025-01-14T02:14:23 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "d83a2158-d416-411c-a547-9f2aaeed6b5f",
+    "customer_id": "16f715f8-dfd6-4af9-aed7-d20733bc0c6f",
+    "hotel_id": "611fda8b-8160-43cc-834b-11688b0ddee1",
+    "start_date": "2025-01-01T12:25:46 +06:00",
+    "end_date": "2025-01-09T11:52:58 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "c87cb576-749e-4254-b29e-64814091db79",
+    "customer_id": "cbeb6908-cffd-40fd-8d0d-3ae1f93605e2",
+    "hotel_id": "ed6969d4-00fd-41d8-9dac-a5fd79bff302",
+    "start_date": "2025-01-07T12:47:35 +06:00",
+    "end_date": "2025-01-07T01:48:22 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "6c756dcc-8d01-4d60-a3dc-9c763abcb34f",
+    "customer_id": "4312a6e0-3c07-4668-95d6-97548dc7bcb5",
+    "hotel_id": "40239a5a-69d2-4236-a8cc-3615d1b735c1",
+    "start_date": "2025-01-06T03:09:36 +06:00",
+    "end_date": "2025-01-08T12:15:33 +06:00",
+    "occupancy": 1
+  },
+  {
+    "id": "6f8811cf-d658-4f57-8a01-685df0cafcee",
+    "customer_id": "184b0054-59cd-437b-893e-48d7417c3ae7",
+    "hotel_id": "2b9621fd-9d27-4700-8c95-59f6dbff186e",
+    "start_date": "2025-01-05T02:33:56 +06:00",
+    "end_date": "2025-01-13T03:44:30 +06:00",
+    "occupancy": 1
+  },
+  {
+    "id": "362842af-b7ed-4915-8c1c-4146d789c082",
+    "customer_id": "672d0f39-7363-481e-9414-f673867974fa",
+    "hotel_id": "1c0bc7cd-bb17-4853-b0a5-3d36df8a034d",
+    "start_date": "2025-01-01T12:20:42 +06:00",
+    "end_date": "2025-01-16T01:53:51 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "56a26f6e-8555-465e-9548-be9a391f538b",
+    "customer_id": "62cc6f50-98aa-454a-be2e-a97afe85950e",
+    "hotel_id": "3d8bb163-b49e-47f6-a9fa-b430a1b88f64",
+    "start_date": "2025-01-02T05:34:07 +06:00",
+    "end_date": "2025-01-13T11:38:17 +06:00",
+    "occupancy": 3
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-06T09:48:25 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "c9549da4-2358-4ed6-9eb5-a6a802f054ff",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-03T10:20:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "ff0c15ed-ae04-4017-8411-41cb59b10f68",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-03T10:20:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-06T09:48:25 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "68fe9667-5ca3-4b41-aebe-408a11464f48",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-03T10:20:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "566e528e-405d-4d36-9f09-177cb24a56e5",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-03T10:20:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-06T09:48:25 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "e8759503-5273-4a4f-92b5-194f937f3ef2",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-03T10:20:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-06T09:48:25 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "aaafa4ab-1a46-47bc-a77b-c07258f1aa5d",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-03T10:20:28 +06:00",
+    "occupancy": 5
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "customer_id": "80a4868f-300f-4385-8f55-747dca7d535f",
+    "hotel_id": "21ffb1bc-2b3c-4177-a4a3-1aed10a55c4a",
+    "start_date": "2025-01-03T10:20:28 +06:00",
+    "end_date": "2025-01-06T09:48:25 +06:00",
+    "occupancy": 5
+  }
+]

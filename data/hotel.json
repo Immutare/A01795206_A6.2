@@ -1,0 +1,106 @@
+[
+  {
+    "id": "935577b1-1e14-492c-8c75-c319333e5a60",
+    "name": "Pod 51",
+    "description": "This hip modern budget hotel on a leafy block in Midtown East is 1.1 miles from Times Square.",
+    "address": "135 Schenck Street, New York, New York",
+    "rating": 3,
+    "cost": "$3,852.77"
+  },
+  {
+    "id": "cea82a44-9e85-4f01-877c-bd4cb15fd202",
+    "name": "Holiday Inn Manhattan",
+    "description": "This high-rise hotel is an 11-minute walk from Penn Station and 12 minutes from the Empire State Building.",
+    "address": "632 Hart Street, New York, New York",
+    "rating": 3,
+    "cost": "$3,610.88"
+  },
+  {
+    "id": "f4bbb16b-261f-4274-b91b-e1ab0a68f5f7",
+    "name": "Four Points by Sheraton Midtown__TEST_UPDATE__TEST_UPDATE",
+    "description": "Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  },
+  {
+    "id": "fff62b7b-0898-4084-9b92-4dd3f8a9c3a7",
+    "name": "DoubleTree by Hilton Hotel New York Times Square West",
+    "description": "Surrounded by restaurants and 3 blocks from the theaters in Times Square, this modern, upmarket hotel overlooking the Hudson River is 6 minutes' walk from the Times Sq - 42 St subway station and 1 mile from the Empire State Building.",
+    "address": "865 Cherry Street, New York, New York",
+    "rating": 5,
+    "cost": "$3,679.97"
+  },
+  {
+    "id": "1b82f96c-41af-43d3-83c2-98ac64d31c83",
+    "name": "Wyndham Garden Brooklyn Sunset Park",
+    "description": "A 5-minute walk from a subway station, this trendy hotel with a distinctive geometric facade is 12 miles from the Statue of Liberty and 14 miles from LaGuardia Airport.",
+    "address": "501 Coleridge Street, New York, New York",
+    "rating": 3,
+    "cost": "$1,974.59"
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "name": null,
+    "description": null,
+    "address": null,
+    "rating": null,
+    "cost": null
+  },
+  {
+    "id": "6c756dcc-8d01-1234-a3dc-9c763abcb34f",
+    "name": null,
+    "description": null,
+    "address": null,
+    "rating": null,
+    "cost": null
+  },
+  {
+    "id": "f4bbb16b-261f-4567-b91b-e1ab0a68f5f7",
+    "name": "TEST - Four Points by Sheraton Midtown",
+    "description": "TEST - Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "TEST - 121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  },
+  {
+    "id": "f4bbb16b-261f-4567-b91b-e1ab0a68f5f7",
+    "name": "TEST - Four Points by Sheraton Midtown",
+    "description": "TEST - Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "TEST - 121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  },
+  {
+    "id": "f4bbb16b-261f-4567-b91b-e1ab0a68f5f7",
+    "name": "TEST - Four Points by Sheraton Midtown",
+    "description": "TEST - Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "TEST - 121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  },
+  {
+    "id": "f4bbb16b-261f-4567-b91b-e1ab0a68f5f7",
+    "name": "TEST - Four Points by Sheraton Midtown",
+    "description": "TEST - Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "TEST - 121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  },
+  {
+    "id": "f4bbb16b-261f-4567-b91b-e1ab0a68f5f7",
+    "name": "TEST - Four Points by Sheraton Midtown",
+    "description": "TEST - Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "TEST - 121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  },
+  {
+    "id": "f4bbb16b-261f-4567-b91b-e1ab0a68f5f7",
+    "name": "TEST - Four Points by Sheraton Midtown",
+    "description": "TEST - Adjacent to Port Authority Bus Terminal, this straightforward hotel is an 11-minute walk from Times Square and 0.9 miles from Radio City Music Hall.",
+    "address": "TEST - 121 Hunts Lane, New York, New York",
+    "rating": 2,
+    "cost": "$4,534.94"
+  }
+]
